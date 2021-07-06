@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class JavaProgram5 {
+public class JavaArrayAlgorithms {
     public static void main(String[] args) {
         //random number between 1 and 15
         int a = random(1, 15);
